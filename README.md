@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah!
-- 🌱 I’m currently continuing to improve my machine learning skills and looking for more python projects.  I just finished a 10 week Data Analytics Bootcamp at Le Wagon, Lisbon
+- 🌱 I’m currently continuing to improve my machine learning skills and looking for more python projects. 
 - 📄 I spent 7 years working on jet engine control systems as software/system verification and then service engineer/after market support.  I then decided to take a leap and quit my job to become a digital nomad and finally learn a skill I’ve thought I should learn for years, python!  
-- ⚡ I’m interested in traveling, rock climbing, volleyball, kitesurfing, food, and learning new skills.  I’ve been to 44 countries, and excited to continue a slow pace of travel with a digital nomad lifestyle.  
+- ⚡ I’m interested in traveling, rock climbing, volleyball, kitesurfing, food, and learning new skills.  I’ve been to 47 countries, and excited to continue a slow pace of travel with a digital nomad lifestyle.  
 - 🏠 I’m originally from Chicago, IL USA.  I went to university at UIUC.  Lived in Indianapolis, IN for 3 years, before moving to Berlin, Germany for 4 years.  
 - 📫 How to reach me: Instagram: maybe_around_the_world
 
